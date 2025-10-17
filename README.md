@@ -18,7 +18,7 @@ If you use this work, please cite the following papers:
 
 > Z. Yao, Y. Peng, Y. Wang, C. Xu, J. Wang, Y. Lin, and G. Gui, ["A novel radio frequency fingerprint concealment method based on IQ imbalance compensation and digital pre-distortion"](https://ieeexplore.ieee.org/abstract/document/10613859), *IEEE Transactions on Information Forensics and Security*, vol. 19, pp. 7349–7361, Jul. 2024.  
 
-> Z. Yao *et al.*, ["A novel physical spoofing technique using radio frequency fingerprint emulation and model fitting"](https://ieeexplore.ieee.org/abstract/document/11161944), in *ICC 2025 – IEEE International Conference on Communications, Montreal, QC, Canada*, 2025, pp. 01–06.
+> Z. Yao, Y. Wang, G. Gui, T. Otsuki, S. Mao, X. Wang, and H. Sari, ["A novel physical spoofing technique using radio frequency fingerprint emulation and model fitting"](https://ieeexplore.ieee.org/abstract/document/11161944), in *ICC 2025 – IEEE International Conference on Communications, Montreal, QC, Canada*, 2025, pp. 01–06.
 
 ---
 
